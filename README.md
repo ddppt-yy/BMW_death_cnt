@@ -1,5 +1,6 @@
 # BMW_death_cnt
 Black myth Wukong death counter
+<center><img src="./sw.png"  style="zoom:100%;"/></center>
 
 # Usage
 1. Click the start button to start counting 
