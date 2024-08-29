@@ -7,6 +7,7 @@ Black myth Wukong death counter
 
 > [!NOTE]
 > Currently, only determine death on the loading Screen. Incorrect statistics will be generated during transfer.
+> Just check 2K screen
 
  
 # TODO
