@@ -1,0 +1,8 @@
+rls
+rls/
+cmd
+Pipfile
+Pipfile.lock
+bmw_death_cnt.spec
+build/
+dist/
